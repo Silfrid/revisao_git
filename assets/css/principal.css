@@ -8,3 +8,11 @@ body{
     border: 2px solid blue;
     border-radius: 20px;
 }
+.secao{
+    border: 2px solid green;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 2px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
