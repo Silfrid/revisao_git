@@ -1,4 +1,10 @@
 body{
     color: white;
     background-color: black;
+    font-family: cursive;
+}
+#logo img{
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 20px;
 }
